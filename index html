@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>genz-bazaar</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>genz-bazaar</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Shop</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+        <li><a href="#">Cart</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Trendy T-Shirts for Gen Z</h2>
+    <p>Explore all kinds of stylish and custom T-shirts</p>
+    <a href="#" class="btn">Shop Now</a>
+  </section>
+
+  <section class="products">
+    <h3>Featured T-Shirts</h3>
+    <div class="product-grid">
+      <div class="product-card">
+        <img src="https://via.placeholder.com/200" alt="T-shirt 1">
+        <h4>Classic Black Tee</h4>
+        <p>৳450</p>
+      </div>
+      <div class="product-card">
+        <img src="https://via.placeholder.com/200" alt="T-shirt 2">
+        <h4>Graphic Print Tee</h4>
+        <p>৳550</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>Payment Available: bKash, Nagad, Rocket, Upay (01806875748)</p>
+    <p>&copy; 2025 genz-bazaar</p>
+  </footer>
+
+</body>
+</html>
