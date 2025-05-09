@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin Panel | genz-bazaar</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Admin Panel</h1>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="shop.html">Shop</a></li>
+    </ul>
+  </nav>
+</header>
+
+<section class="admin-form">
+  <h2>Add New Product</h2>
+  <form>
+    <label>Product Name:</label><br>
+    <input type="text"><br><br>
+
+    <label>Price (৳):</label><br>
+    <input type="number"><br><br>
+
+    <label>Image URL:</label><br>
+    <input type="text"><br><br>
+
+    <button type="submit">Add Product</button>
+  </form>
+</section>
+
+<footer>
+  <p>genz-bazaar admin use only</p>
+</footer>
+
+</body>
+</html>
